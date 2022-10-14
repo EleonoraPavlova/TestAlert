@@ -7,4 +7,8 @@ import "./assets/base.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 //подключено через терминал
 
+
+
+
+
 createApp(App).use(store).use(router).mount('#app')
